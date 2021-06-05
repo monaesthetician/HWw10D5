@@ -1,0 +1,28 @@
+
+/* this is the portion that I added as homework. The Linkedin hover were working halfmoon
+so now it's running fully as I want. And I changed text color */
+#creators {
+    color: #47597e;
+  
+  }
+  #Lauren :hover {
+    background-color: #ac66cc;
+  }
+  
+  #Marquis :hover {
+    background-color: #ac66cc;
+  }
+  
+  #Mona :hover {
+    background-color: #ac66cc;
+  }
+  
+  .Lauren, .Marquis, .Mona {
+    color: #3b14a7;
+  }
+  
+  
+  #footer-text {
+    color: #2541b2;
+  }
+  
